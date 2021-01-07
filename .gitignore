@@ -1,0 +1,7 @@
+test/*
+
+*.c
+*.cpp
+*.py
+hello.txt
+test[0-9].txt
