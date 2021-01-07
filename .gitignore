@@ -4,8 +4,3 @@ test/*
 *.cpp
 *.py
 test[0-9].txt
-
-[filter "NOCOMMIT"]
-    clean=grep -v NOCOMMIT
-
-test_ignore_sublines.txt filter=nocommit
