@@ -4,3 +4,6 @@ test/*
 *.cpp
 *.py
 test[0-9].txt
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
