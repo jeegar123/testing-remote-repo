@@ -1,5 +1,5 @@
 
 [filter "NOCOMMIT"]
-    clean=grep -v NOCOMMIT
+    clean=grep -v nocommit
 
 test_ignore_sublines.txt filter=nocommit
