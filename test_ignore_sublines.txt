@@ -1,0 +1,5 @@
+project=github tranning
+guide =chirag sir
+port=8040  // NOCOMMIT
+username =test@gmail.com  // NOCOMMIT
+password= test // NOCOMMIT
